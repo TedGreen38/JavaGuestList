@@ -1,0 +1,5 @@
+
+Ted | age: 22 | Status: VIP
+Betty | age: 22 | Status: VIP
+Jayden | age: 25 | Status: Regular
+William | age: 24 | Status: Chef
